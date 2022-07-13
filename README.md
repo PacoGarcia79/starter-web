@@ -19,4 +19,4 @@ Really?
 
 Te cagas que no veas... Fork it or die
 
-2022 Git.Training
+2022 Git.Training. All Rights Reserved
