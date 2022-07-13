@@ -17,3 +17,5 @@ Really?
 ## How to contribute
 
 Te cagas que no veas...
+
+2022 Git.Training
