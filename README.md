@@ -16,6 +16,6 @@ Really?
 
 ## How to contribute
 
-Te cagas que no veas...
+Te cagas que no veas... Fork it or die
 
 2022 Git.Training
