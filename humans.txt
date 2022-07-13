@@ -13,4 +13,5 @@ Please leave a review
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
+Angular
     jQuery, Modernizr
